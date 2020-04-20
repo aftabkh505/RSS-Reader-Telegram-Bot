@@ -52,7 +52,7 @@ class Server(object):
     WEB_HOOK_ADDRESS = '/web_hook'
 
     # Your Bot secret token.
-    TELEGRAM_TOKEN = 'secret-pass'
+    TELEGRAM_TOKEN = '1208543224:AAF-fgrmkVRII1a8phPm9i4S8e1kmrepIII'
 
 
 class CRON(object):
